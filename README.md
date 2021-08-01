@@ -1,4 +1,4 @@
-**Please refer to Pattern Patent_ETL.pptx for my presentation of this ETL project, which is an extension for Project 1 (pattern Patent.pptx). The topic USPTO patents is consistent across my projects**.
+**Please refer to Pattern Patent_ETL.pptx for my presentation of this ETL project, which is an extension for Project 1 (Pattern Patent.pptx). The topic USPTO patents is consistent across my projects**.
 
 # Guidelines for ETL Project
 
