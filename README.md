@@ -54,4 +54,4 @@ Please upload the report to Github and submit a link to Bootcampspot.
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
