@@ -1,4 +1,4 @@
-**Please refer to Pattern Patent_ETL.pptx for my presentation of this ETL project, which is an extension for Project 1 (Pattern Patent.pptx). The topic USPTO patents is consistent across my projects**.
+**Please refer to Pattern Patent_ETL.pptx for my presentation of this ETL project (https://github.com/gongl1/ETL/blob/main/Pattern%20Patent_ETL.pptx), which is an extension for Project 1 (Pattern Patent.pptx). The topic USPTO patents is consistent across my project portfolio**.
 
 # Guidelines for ETL Project
 
@@ -51,6 +51,10 @@ At the end of the week, your team will submit a Final Report that describes the 
 * **L**oad: the final database, tables/collections, and why this was chosen.
 
 Please upload the report to Github and submit a link to Bootcampspot.
+
+- - -
+
+![1-Logo](ML1.PNG)
 
 - - -
 
