@@ -1,4 +1,8 @@
-**Please refer to Pattern Patent_ETL.pptx for my presentation of this ETL project (https://github.com/gongl1/ETL/blob/main/Pattern%20Patent_ETL.pptx), which is an extension for Project 1 (https://github.com/gongl1/projectdemo1/blob/main/Pattern%20Patent.pptx). The topic USPTO patents is consistent across my project portfolio**.
+Steps to access my presentation for ETL project:
+
+1. Please refer to Pattern Patent_ETL.pptx for my presentation of ETL project (https://github.com/gongl1/ETL/blob/main/Pattern%20Patent_ETL.pptx), which is an extension for projectdemo1_Data (https://github.com/gongl1/projectdemo1/blob/main/Pattern%20Patent.pptx).
+2. Click on view raw to download the presentation.
+3. This project is about ETL. The topic USPTO patents is consistent across my project portfolio.
 
 # Guidelines for ETL Project
 
